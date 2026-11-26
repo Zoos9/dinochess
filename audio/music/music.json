@@ -1,0 +1,42 @@
+{
+ "park": {
+  "loop": true,
+  "seconds": 87.28,
+  "samples": 3849118,
+  "sampleRate": 44100,
+  "encoderDelaySamples": 1105,
+  "lufs": -18.0
+ },
+ "training": {
+  "loop": true,
+  "seconds": 79.07,
+  "samples": 3486784,
+  "sampleRate": 44100,
+  "encoderDelaySamples": 1105,
+  "lufs": -21.0
+ },
+ "battle": {
+  "loop": true,
+  "seconds": 77.15,
+  "samples": 3402207,
+  "sampleRate": 44100,
+  "encoderDelaySamples": 1105,
+  "lufs": -17.0
+ },
+ "victory": {
+  "loop": false,
+  "seconds": 8.03,
+  "samples": 354263,
+  "sampleRate": 44100,
+  "encoderDelaySamples": 1105,
+  "lufs": -16.0
+ },
+ "hatch": {
+  "loop": false,
+  "seconds": 5.52,
+  "samples": 243635,
+  "sampleRate": 44100,
+  "encoderDelaySamples": 1105,
+  "lufs": -17.0
+ }
+}
